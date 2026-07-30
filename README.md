@@ -11,6 +11,8 @@ Data analysis process：
 #### 8. Metagenomic binning 
 #### 9. Genomesets
 #### 10. Biosynthetic gene cluster analysis
+### bar_plot.R
+Used for drawing the stacked charts in the ExMODE article
 ### metadata.xlsx
 All sample metadata tables, including BioSample, Taxonomy Name, Isolation Source, Sample Title, Sample Description, Project Name, Project Description, and other relevant information.
 ### sample.txt
